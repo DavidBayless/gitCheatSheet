@@ -34,8 +34,8 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 
 `$ git branch` - List, create, or delete branches.
 
-`$ git checkout <branch name>` - __Switch branches or restore working tree files__
+`$ git checkout <branch name>` - Switch branches or restore working tree files
 
 #### Merging
 
-`$ git merge <branch name>` - __Join two or more development histories together__
+`$ git merge <branch name>` - Join two or more development histories together
