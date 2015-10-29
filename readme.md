@@ -1,41 +1,41 @@
 ## Cheat Sheet
 
-Whenever you're confused about git, come read this cheat sheet. Remember that all git commands can be run with the  option. For example:
+Whenever you're confused about git, come read this cheat sheet. Remember that all git commands can be run with the `--help` option. For example:
 
- or 
+`$ git branch --help` or `$git log --help`
 
 ### Essential Git Commands
 
 ####Create a new git repository
- - Create a new, local repository
+`$ git init` - Create a new, local repository
 
 #### Repo Status
- - Check the status of your current repository and see which files have changed.
+`$ git status` - Check the status of your current repository and see which files have changed.
 
- - __Fill Me Out__
+`$ git diff` - __Fill Me Out__
 
 #### Repo History
- - __Fill Me Out__
+`$ git log` - __Fill Me Out__
 
- - __Fill Me Out__
+`$ git log --oneline --decorate --color --graph --all` - __Fill Me Out__
 
- __Fill Me Out__
+`$ git log -p [filename]` __Fill Me Out__
 
 #### Stage files to commit
- - __Fill Me Out__
+`$ git add <filename>` - __Fill Me Out__
 
- - __Fill Me Out__
+`$ git add -A` - __Fill Me Out__
 
 #### Commit changes in staged files
- - __Fill Me Out__
+`$ git commit -m "<commit message>"` - __Fill Me Out__
 
 #### Branching
- - __Fill Me Out__
+`$ git branch <branch name>` - __Fill Me Out__
 
- - __Fill Me Out__
+`$ git branch` - __Fill Me Out__
 
- - __Fill Me Out__
+`$ git checkout <branch name>` - __Fill Me Out__
 
 #### Merging
 
- - __Fill Me Out__
+`$ git merge <branch name>` - __Fill Me Out__
