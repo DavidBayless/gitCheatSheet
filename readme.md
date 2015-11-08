@@ -39,3 +39,5 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 #### Merging
 
 `$ git merge <branch name>` - Join two or more development histories together
+
+Edit to push to GitHub 
